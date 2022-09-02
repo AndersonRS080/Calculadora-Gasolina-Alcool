@@ -1,5 +1,5 @@
 # Calculadora-Gasolina-Alcool
-<h2>Projeto onde voçê pode comparar o valor entre o alcool e a gasolina.</h2>
+<h3>Projeto onde voçê pode comparar o valor entre o alcool e a gasolina.</h3>
 Tecnologias:<br>
 • Html<br>
 • Css<br>
