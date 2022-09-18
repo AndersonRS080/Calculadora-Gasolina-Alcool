@@ -17,4 +17,4 @@ Projeto onde voçê pode calcular e comparar o valor entre o alcool e a gasolina
 
 <!--# Autor:-->
 
-## <a href="https://andersonrs080.github.io/Calculadora-Gasolina-Alcool/" target="_blank">Ver projeto</a>
+## <a href="https://AndersonRodrigs.github.io/Calculadora-Gasolina-Alcool/" target="_blank">Ver projeto</a>
